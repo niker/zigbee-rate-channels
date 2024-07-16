@@ -29,6 +29,7 @@ The averages are weighted per hour of the day, so that taking too many samples i
 
 You will get output like this with best channel at the top:
 
+```json
 [{"channel":"24","usage":"2.97"},
 {"channel":"25","usage":"4.65"},
 {"channel":"22","usage":"8.43"},
@@ -45,6 +46,7 @@ You will get output like this with best channel at the top:
 {"channel":"26","usage":"94.67"},
 {"channel":"14","usage":"96.36"},
 {"channel":"15","usage":"96.53"}]
+```
 
 ### Migrating your ZHA to another channel
 - Be aware that not all devices will migrate automatically, sensors that are battery powered may be a problem.
