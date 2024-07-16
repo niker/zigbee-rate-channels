@@ -7,7 +7,7 @@ Tool for managing congestion and interference on a zigbee network running ZHA in
 The averages are weighted per hour of the day, so that taking too many samples in a short period of time will not skew the results.
 
 ### Prerequisites
-- Latest Node.js must installed, older versions will probably work as well.
+- Latest Node.js must be installed, older versions will probably work as well.
 
 ### Gathering input data
 - Go to your home assistant instance "Zigbee Home Automation" integration
